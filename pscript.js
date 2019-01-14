@@ -1,0 +1,1 @@
+/* Javascript for Perspective Paralleled Text */
